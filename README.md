@@ -6,7 +6,7 @@ ImpressUI is a UI library that can be used to build web interfaces with ease. Cu
 
 ## Why ImpressUI?
 
-To make our website more restrict to bots and data scrappers.
+To make our website more restricted to bots and data scrappers.
 
 ## Framework support?
 
